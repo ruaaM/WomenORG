@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\ParticipantImages\\0ed0bc66-4653-4b69-a332-0947ab2d30f7.jpg",
+      "PackagePath": "staticwebassets\\ParticipantImages\\0ed0bc66-4653-4b69-a332-0947ab2d30f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\ParticipantImages\\14c9a315-63d7-4687-ab70-99a2f9cd2eee.jpg",
+      "PackagePath": "staticwebassets\\ParticipantImages\\14c9a315-63d7-4687-ab70-99a2f9cd2eee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\PartnershipImages\\0ed0bc66-4653-4b69-a332-0947ab2d30f7.jpg",
+      "PackagePath": "staticwebassets\\PartnershipImages\\0ed0bc66-4653-4b69-a332-0947ab2d30f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\PartnershipImages\\14c9a315-63d7-4687-ab70-99a2f9cd2eee.jpg",
+      "PackagePath": "staticwebassets\\PartnershipImages\\14c9a315-63d7-4687-ab70-99a2f9cd2eee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\PortfolioImages\\4099937b-1f3e-4de7-818c-18f5bd0d43b3.jpg",
+      "PackagePath": "staticwebassets\\PortfolioImages\\4099937b-1f3e-4de7-818c-18f5bd0d43b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\SponsorImages\\2fd49f05-11bc-4af0-bdad-79b90c232e19.jpg",
+      "PackagePath": "staticwebassets\\SponsorImages\\2fd49f05-11bc-4af0-bdad-79b90c232e19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\SponsorImages\\438051fa-33d2-4269-9bdc-f6fefdd05644.jpg",
+      "PackagePath": "staticwebassets\\SponsorImages\\438051fa-33d2-4269-9bdc-f6fefdd05644.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RuaaM\\source\\repos\\WomenORG\\WomenORG\\wwwroot\\SponsorImages\\8548634f-cdf5-4cf0-9324-250004efe5aa.jpg",
+      "PackagePath": "staticwebassets\\SponsorImages\\8548634f-cdf5-4cf0-9324-250004efe5aa.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WomenORG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WomenORG.props",
+      "PackagePath": "build\\WomenORG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WomenORG.props",
+      "PackagePath": "buildMultiTargeting\\WomenORG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WomenORG.props",
+      "PackagePath": "buildTransitive\\WomenORG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
